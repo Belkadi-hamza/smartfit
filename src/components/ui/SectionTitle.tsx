@@ -20,7 +20,6 @@ const SectionTitle: React.FC<SectionTitleProps> = ({
       )}
       <h2 className="text-3xl md:text-4xl font-bold  ">
         {title}
-        <span className="absolute bottom-0 left-0 w-1/3 h-1 bg-blue-500 rounded"></span>
       </h2>
     </div>
   );
