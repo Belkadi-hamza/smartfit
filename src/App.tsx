@@ -7,6 +7,7 @@ import Features from './components/sections/Features';
 import Testimonials from './components/sections/Testimonials';
 import Contact from './components/sections/Contact';
 import Footer from './components/layout/Footer';
+import CustomCursor from './components/CustomCursor/CustomCursor';
 
 function App() {
   const [scrolled, setScrolled] = useState(false);
@@ -27,6 +28,7 @@ function App() {
 
   return (
     <div className="font-sans text-gray-800">
+      <CustomCursor />
       <Header scrolled={scrolled} />
       <main>
         <Hero />
