@@ -177,23 +177,6 @@ const Contact = () => {
               </div>
             </div>
             
-            <div className="mt-10 bg-gray-50 rounded-lg p-6">
-              <h4 className="text-lg font-semibold mb-4">Horaires d'ouverture</h4>
-              <ul className="space-y-2">
-                <li className="flex justify-between">
-                  <span className="text-gray-600">Lundi - Vendredi:</span>
-                  <span className="font-medium">9h00 - 18h00</span>
-                </li>
-                <li className="flex justify-between">
-                  <span className="text-gray-600">Samedi:</span>
-                  <span className="font-medium">10h00 - 15h00</span>
-                </li>
-                <li className="flex justify-between">
-                  <span className="text-gray-600">Dimanche:</span>
-                  <span className="font-medium">Fermé</span>
-                </li>
-              </ul>
-            </div>
             
             <div className="mt-8">
               <h4 className="text-lg font-semibold mb-4">Suivez-nous</h4>
