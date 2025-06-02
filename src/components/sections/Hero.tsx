@@ -46,7 +46,7 @@ const Hero = () => {
               <div className="absolute -bottom-8 left-20 w-72 h-72 bg-blue-400 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-4000"></div>
               <div className="relative">
                 <img 
-                  src="https://images.pexels.com/photos/8355949/pexels-photo-8355949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                  src="https://i.ibb.co/WvzCyXgg/Whats-App-Image-2025-06-02-at-19-13-01-27b3a216.jpg" 
                   alt="SmartFit wearable technology" 
                   className="rounded-lg shadow-lg object-cover w-full h-auto aspect-[4/3]"
                 />

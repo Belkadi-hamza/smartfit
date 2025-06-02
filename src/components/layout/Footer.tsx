@@ -23,8 +23,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center mb-4">
-              <Activity className="mr-2" size={32} />
-              <span className="text-2xl font-bold">SmartFit</span>
+              <span className="text-2xl font-bold">SmartFit.</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
               SmartFit est un vêtement intelligent connecté qui allie technologie textile et suivi physiologique pour le soulagement des douleurs chroniques.

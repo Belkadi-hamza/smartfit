@@ -22,7 +22,7 @@ const Products = () => {
       id: 2,
       title: "T-shirt Connecté",
       description: "Idéal pour les adultes, intégrant des capteurs pour le suivi de la santé et le soulagement des douleurs chroniques.",
-      image: "https://images.pexels.com/photos/5386754/pexels-photo-5386754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://i.ibb.co/WvzCyXgg/Whats-App-Image-2025-06-02-at-19-13-01-27b3a216.jpg",
       features: [
         "Électrostimulation intégrée",
         "Suivi cardiaque",
