@@ -152,7 +152,7 @@ const Contact = () => {
                 </div>
                 <div className="ml-4">
                   <h4 className="text-lg font-semibold">Adresse</h4>
-                  <p className="text-gray-600">12 Avenue de l'Innovation, 75001 Paris, France</p>
+                  <p className="text-gray-600">Bd Commandant Driss Al Harti, Casablanca 20670</p>
                 </div>
               </div>
               
@@ -162,7 +162,7 @@ const Contact = () => {
                 </div>
                 <div className="ml-4">
                   <h4 className="text-lg font-semibold">Email</h4>
-                  <p className="text-gray-600">contact@smartfit.com</p>
+                  <p className="text-gray-600">smart.fit.official.25@gmail.com</p>
                 </div>
               </div>
               
@@ -172,7 +172,7 @@ const Contact = () => {
                 </div>
                 <div className="ml-4">
                   <h4 className="text-lg font-semibold">Téléphone</h4>
-                  <p className="text-gray-600">+33 1 23 45 67 89</p>
+                  <p className="text-gray-600">+212 700 124 705</p>
                 </div>
               </div>
             </div>
